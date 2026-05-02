@@ -19,7 +19,7 @@ It allows users to register, login, and access a protected home page.
 <img width="577" height="581" alt="image" src="https://github.com/user-attachments/assets/844f9fb3-4f9d-4b9d-88f7-fd41cfca6b1e" />
 
 
-<img width="622" height="579" alt="image" src="https://github.com/user-attachments/assets/75fe5239-56c8-4bbc-98a7-4003f12680b8" />
+<img width="566" height="568" alt="image" src="https://github.com/user-attachments/assets/3e687e0d-723c-4e1c-9c3b-ef302faec2f3" />
 
 
 ---
